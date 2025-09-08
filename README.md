@@ -54,5 +54,5 @@ I approach software development with **curiosity and logic**, always exploring t
 ---
 
 ## ⚡ Fun Fact
-I like to experiment with **AI models and datasets**, constantly looking for ways to automate or simplify complex tasks, while keeping code maintainable, readable and last but not least **very modularized**.
+I like to experiment with **AI models and datasets**, constantly looking for ways to automate or simplify complex tasks, while keeping code maintainable, readable and last but not least; **very modularized**.
 
