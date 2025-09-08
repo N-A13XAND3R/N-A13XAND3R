@@ -19,19 +19,30 @@ I enjoy combining my coding skills with analytical thinking to design projects t
 
 ## 🚀 Projects
 
-Here are some of my notable projects:
+## 🚀 Projects  
 
-### [CashControl](https://github.com/N-A13XAND3R/CashControl)
-- Java desktop application to manage personal finances  
-- Features include dashboards, transaction tracking, savings and investments management  
-- Strong focus on clean architecture and modular design  
+Here are some of my notable projects:  
 
-### [weed_ai_and_statistics](https://github.com/N-A13XAND3R/weed_ai_and_statistics)
+### [CashControl](https://github.com/N-A13XAND3R/CashControl)  
+- Java desktop application for managing personal finances  
+- Features dashboards, transaction tracking, savings and investments management  
+- Built entirely by me with focus on **clean architecture** and **modular design**  
+
+### [weed_ai_and_statistics](https://github.com/N-A13XAND3R/weed_ai_and_statistics)  
 - Python & SQLite project combining AI, statistics, and data processing  
-- Implements clustering algorithms (k-modes) and data visualization  
-- Designed to handle, analyze, and extract insights from datasets  
+- Implements **k-modes clustering** and data visualization tools  
+- Designed and developed entirely by me to analyze and extract insights from datasets  
 
-> More projects will be added as I continue experimenting and learning new technologies.
+### [InteractiveMathematicalDemonstrations](https://github.com/N-A13XAND3R/InteractiveMathematicalDemonstrations)  
+- Collaborative web platform for interactive learning and classroom management  
+- **My contributions:**  
+  - Backend classes (`Professor`, `Student`, `User`)  
+  - Security system (text→hex→RSA encryption)  
+  - Utilities (randomizer, Gmail sender, etc.)  
+  - Responsive UI adjustments and base HTML structure  
+- Enabled professors to create classes/quizzes and monitor student progress in a linear way  
+
+> More projects will be added as I continue experimenting and learning new technologies.  
 
 ---
 
