@@ -9,7 +9,7 @@ I'm a curious and analytical developer passionate about **Python**, **Java**, **
 - **Programming Languages:** Python (specialist), Java, JavaScript, HTML, CSS, C#, Jupyter Notebook  
 - **Databases:** SQLite  
 - **Tools & Frameworks:** Git, GitHub, Maven, basic ML/AI libraries  
-- **Languages Spoken:** EN | ES | FR  
+- **Languages Spoken:** EN (C1+)| ES (C2)| FR (B2+)| LU (currently learning) 
 
 I enjoy combining my coding skills with analytical thinking to design projects that solve problems or experiment with data in innovative ways.  
 
@@ -34,7 +34,7 @@ Here are some of my notable projects:
 ---
 
 ## 🌱 Currently Learning
-- Advanced **Machine Learning & AI models** in Python  
+- **Machine Learning & AI models** in Python  
 - Web development projects integrating front-end and back-end  
 - Optimizing code structure and implementing scalable architectures  
 
