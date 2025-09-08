@@ -17,8 +17,6 @@ I enjoy combining my coding skills with analytical thinking to design projects t
 
 ---
 
-## 🚀 Projects
-
 ## 🚀 Projects  
 
 Here are some of my notable projects:  
