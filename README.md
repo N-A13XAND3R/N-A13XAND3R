@@ -11,7 +11,7 @@ Secondary account: https://github.com/A13XAnDer01
 - **Programming Languages:** Python (specialist), Java, JavaScript, HTML, CSS, C#, Jupyter Notebook  
 - **Databases:** SQLite  
 - **Tools & Frameworks:** Git, GitHub, Maven, basic ML/AI libraries  
-- **Languages Spoken:** EN (C1+)| ES (C2)| FR (B2+)| LU (currently learning) 
+- **Spoken Languages:** EN (C1+)| ES (C2)| FR (B2+)| LU (currently learning) 
 
 I enjoy combining my coding skills with analytical thinking to design projects that solve problems or experiment with data in innovative ways.  
 
