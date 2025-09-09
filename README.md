@@ -1,4 +1,4 @@
-# Hi, I'm N-A13XAND3R 👋
+# Hi, it's N-A13XAND3R 👋
 
 I'm a curious and analytical developer passionate about **Python**, **Java**, **AI/ML**, and **full-stack development**. I love exploring projects that combine logic, data, and creativity, from building financial apps to experimenting with AI models.  
 
